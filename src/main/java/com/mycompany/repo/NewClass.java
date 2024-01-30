@@ -9,5 +9,5 @@ package com.mycompany.repo;
  * @author Carlos
  */
 public class NewClass {
-    
+       int xjk;
 }
